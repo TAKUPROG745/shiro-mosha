@@ -1,0 +1,189 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*レスポンシブ用CSS*/
+
+@media screen and (max-width: 750px) {
+	
+	.shiro_logo {
+		margin-left: 30px;
+		margin-top: 40px;
+	}
+	
+	.hamburger span {
+		right: 30px;
+	}
+	
+	.hamburger span:nth-child(1) {
+		top: 40px;
+	}
+	
+	.hamburger span:nth-child(2) {
+		top: 50px;
+	}
+	
+	.hamburger span:nth-child(3) {
+		top: 60px;
+	}
+	
+	.shiro_logo3 {
+		width: 312px;
+	}
+	
+	.concept_sec h2 {
+		font-size: 62px;
+	}
+	
+	.border {
+		width: 54px;
+		height: 2px;
+	}
+	
+	.concept_p {
+		font-size: 24px;
+	}
+	
+	.br {
+		display: none;
+	}
+	
+	.bg1 {
+		width: 92%;
+		height: 300px;
+	}
+	
+	.bg2 {
+		height: 210px;
+		margin-top: -140px;
+	}
+	
+	.works_sec h2 {
+		font-size: 62px;
+	}
+	
+	.works_p {
+		font-size: 24px;
+	}
+	
+	.works_p br {
+		display: none;
+	}
+	
+	.works1 {
+		padding-right: 100px;
+	}
+	
+	.works_box {
+		display: block;
+		width: 90%;
+		margin: 70px auto 0 30px;
+	}
+	
+	.works2 {
+		padding-left: 100px;
+	}
+	
+	.works_box2 {
+		display: block;
+		width: 90%;
+		margin: 0 auto 0 30px;
+	}
+	
+	.works3 {
+		margin-top: 100px;
+		padding-right: 100px;
+	}
+	
+	.box_h3 {
+		font-size: 46px;
+	}
+	
+	.works_p {
+		font-size: 24px;
+	}
+	
+	.works4 {
+		margin-top: 130px;
+		padding-left: 100px;
+	}
+	
+	.florist_sec h2 {
+		font-size: 62px;
+	}
+	
+	.florist_p {
+		font-size: 24px;
+	}
+	
+	.florist_box {
+		display: block;
+		width: 90%;
+		margin: 60px auto 65px auto;
+	}
+	
+	.content {
+		padding-bottom: 100px;
+	}
+	
+	.content1 {
+		padding-bottom: 100px;
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+	
+	.florist_h3 {
+		font-size: 46px;
+	}
+	
+	.ff_p {
+		font-size: 24px;
+	}
+	
+	.information h2 {
+		padding-top: 2110px;
+		font-size: 62px;
+	}
+	
+	.information_p {
+		font-size: 24px;
+	}
+	
+	.info_box {
+		display: block;
+		width: 90%;
+	}
+	
+	.info_data {
+		padding-left: 0px;
+		margin-bottom: -60px;
+	}
+	
+	dd {
+		font-size: 24px;
+	}
+	
+	dt {
+		font-size: 24px;
+	}
+	
+	.contact_sec div {
+		background-image: url("../img/1x/hana5.png");
+		background-size: cover;
+		max-width: 100%;
+		height: auto;
+		padding-bottom: 100px;
+	}
+	
+	.contact_sec h2 {
+		font-size: 62px;
+	}
+	
+	.contact_p {
+		font-size: 24px;
+	}
+	
+	footer p {
+		font-size: 22px;
+	}
+	
+}
